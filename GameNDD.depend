@@ -1,0 +1,148 @@
+# depslib dependency file v1.0
+1710742964 source:f:\sdlwithndd\gamendd\flappychim-2.0-main\src\background.cpp
+	"Background.h"
+
+1710742964 f:\sdlwithndd\gamendd\flappychim-2.0-main\src\background.h
+	"Object.h"
+
+1710742965 f:\sdlwithndd\gamendd\flappychim-2.0-main\src\object.h
+	"TextureManager.h"
+
+1710742965 f:\sdlwithndd\gamendd\flappychim-2.0-main\src\texturemanager.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1710742964 source:f:\sdlwithndd\gamendd\flappychim-2.0-main\src\base.cpp
+	"Base.h"
+
+1710742964 f:\sdlwithndd\gamendd\flappychim-2.0-main\src\base.h
+	"Object.h"
+
+1710742964 source:f:\sdlwithndd\gamendd\flappychim-2.0-main\src\bird.cpp
+	<iostream>
+	"Bird.h"
+
+1710742964 f:\sdlwithndd\gamendd\flappychim-2.0-main\src\bird.h
+	"Object.h"
+
+1710742964 source:f:\sdlwithndd\gamendd\flappychim-2.0-main\src\button.cpp
+
+1710742965 source:f:\sdlwithndd\gamendd\flappychim-2.0-main\src\coin.cpp
+	"Coin.h"
+
+1710742965 f:\sdlwithndd\gamendd\flappychim-2.0-main\src\coin.h
+	"Object.h"
+	"Pipe.h"
+
+1710742965 f:\sdlwithndd\gamendd\flappychim-2.0-main\src\pipe.h
+	"Object.h"
+	<ctime>
+
+1710742965 source:f:\sdlwithndd\gamendd\flappychim-2.0-main\src\foreground.cpp
+	"Foreground.h"
+
+1710742965 f:\sdlwithndd\gamendd\flappychim-2.0-main\src\foreground.h
+	"Object.h"
+
+1710742965 source:f:\sdlwithndd\gamendd\flappychim-2.0-main\src\howtoplay.cpp
+	"Howtoplay.h"
+
+1710742965 f:\sdlwithndd\gamendd\flappychim-2.0-main\src\howtoplay.h
+	"Object.h"
+
+1710742965 source:f:\sdlwithndd\gamendd\flappychim-2.0-main\src\menu.cpp
+
+1710742965 source:f:\sdlwithndd\gamendd\flappychim-2.0-main\src\mouse.cpp
+	"Mouse.h"
+
+1710742965 f:\sdlwithndd\gamendd\flappychim-2.0-main\src\mouse.h
+	"Object.h"
+
+1710742965 source:f:\sdlwithndd\gamendd\flappychim-2.0-main\src\object.cpp
+	"Object.h"
+
+1710742965 source:f:\sdlwithndd\gamendd\flappychim-2.0-main\src\pipe.cpp
+	"Pipe.h"
+	<ctime>
+	<iostream>
+
+1710742965 source:f:\sdlwithndd\gamendd\flappychim-2.0-main\src\textobject.cpp
+	"TextObject.h"
+	<cstring>
+
+1710742965 f:\sdlwithndd\gamendd\flappychim-2.0-main\src\textobject.h
+	"Object.h"
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+
+1710742965 source:f:\sdlwithndd\gamendd\flappychim-2.0-main\src\texturemanager.cpp
+	"TextureManager.h"
+
+1710742873 source:f:\sdlwithndd\gamendd\dino-in-zungle-master\button.cpp
+	"Button.h"
+
+1710742873 f:\sdlwithndd\gamendd\dino-in-zungle-master\button.h
+	"Game_Base.h"
+	"LTexture.h"
+
+1710742873 f:\sdlwithndd\gamendd\dino-in-zungle-master\game_base.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<ctime>
+
+1710742873 f:\sdlwithndd\gamendd\dino-in-zungle-master\ltexture.h
+	"Game_Base.h"
+
+1710742873 source:f:\sdlwithndd\gamendd\dino-in-zungle-master\character.cpp
+	"Character.h"
+
+1710742873 f:\sdlwithndd\gamendd\dino-in-zungle-master\character.h
+	"LTexture.h"
+
+1710742873 source:f:\sdlwithndd\gamendd\dino-in-zungle-master\enemy.cpp
+	"Enemy.h"
+
+1710742873 f:\sdlwithndd\gamendd\dino-in-zungle-master\enemy.h
+	"LTexture.h"
+
+1710742873 source:f:\sdlwithndd\gamendd\dino-in-zungle-master\game_base.cpp
+	"Game_Base.h"
+
+1710742873 source:f:\sdlwithndd\gamendd\dino-in-zungle-master\game_utils.cpp
+	"Game_Utils.h"
+
+1710742873 f:\sdlwithndd\gamendd\dino-in-zungle-master\game_utils.h
+	"Game_Base.h"
+	"Button.h"
+	"Enemy.h"
+	"Character.h"
+
+1710742873 source:f:\sdlwithndd\gamendd\dino-in-zungle-master\ltexture.cpp
+	"LTexture.h"
+
+1710742873 source:f:\sdlwithndd\gamendd\dino-in-zungle-master\main.cpp
+	"Game_Utils.h"
+	"LTexture.h"
+	"Button.h"
+	"Character.h"
+	"Enemy.h"
+
+1710921497 source:f:\sdlwithndd\gamendd\main.cpp
+	"GameLoop.h"
+
+1710921633 f:\sdlwithndd\gamendd\gameloop.h
+	<SDL.h>
+	<iostream>
+
+1710921650 source:f:\sdlwithndd\gamendd\gameloop.cpp
+	"GameLoop.h"
+
