@@ -32,7 +32,18 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="GameLoop.cpp" />
 		<Unit filename="GameLoop.h" />
+		<Unit filename="Image/Spongebob.png" />
+		<Unit filename="Image/bird1.png" />
+		<Unit filename="Object.cpp" />
+		<Unit filename="Object.h" />
+		<Unit filename="Player.cpp" />
+		<Unit filename="Player.h" />
+		<Unit filename="TextMan.cpp" />
+		<Unit filename="TextMan.h" />
+		<Unit filename="background.cpp" />
+		<Unit filename="background.h" />
 		<Unit filename="main.cpp" />
 		<Extensions />
 	</Project>

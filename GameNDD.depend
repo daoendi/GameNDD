@@ -136,13 +136,43 @@
 	"Character.h"
 	"Enemy.h"
 
-1710921497 source:f:\sdlwithndd\gamendd\main.cpp
+1710999312 source:f:\sdlwithndd\gamendd\main.cpp
 	"GameLoop.h"
 
-1710921633 f:\sdlwithndd\gamendd\gameloop.h
+1710999208 f:\sdlwithndd\gamendd\gameloop.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"Player.h"
+	"Object.h"
+	"Background.h"
+
+1710999133 source:f:\sdlwithndd\gamendd\gameloop.cpp
+	"GameLoop.h"
+
+1710996054 f:\sdlwithndd\gamendd\textman.h
 	<SDL.h>
 	<iostream>
+	<SDL_image.h>
 
-1710921650 source:f:\sdlwithndd\gamendd\gameloop.cpp
-	"GameLoop.h"
+1710999281 source:f:\sdlwithndd\gamendd\textman.cpp
+	"TextMan.h"
+
+1710996846 f:\sdlwithndd\gamendd\player.h
+	"Object.h"
+
+1710999357 f:\sdlwithndd\gamendd\object.h
+	"TextMan.h"
+
+1710996845 source:f:\sdlwithndd\gamendd\player.cpp
+	"Player.h"
+
+1710999381 source:f:\sdlwithndd\gamendd\object.cpp
+	"Object.h"
+
+1710999208 f:\sdlwithndd\gamendd\background.h
+	"Object.h"
+
+1710999215 source:f:\sdlwithndd\gamendd\background.cpp
+	"background.h"
 

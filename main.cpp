@@ -1,13 +1,16 @@
-#include "GameLoop.h"
+#include"GameLoop.h"
 
 GameLoop* g = new GameLoop();
 
-int main(int argc, char** argv){
-
-    g -> Intialize();
-    while(1){
-        g -> Render();
-    }
-    g -> Clean();
-    return 0;
+int main(int argc, char** argv)
+{
+	g->Intialize();
+	while (g->getGameState())
+	{
+		g->Render();
+		g->Event();
+		g->Update();
+	}
+	g->Clear();
+	return 0;
 }
