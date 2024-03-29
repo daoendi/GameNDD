@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1711438783 source:f:\sdlwithndd\gamendd\main.cpp
+
+1710998360 source:e:\sdl-tutorial-7f078386f55805c6fefcfb1bb8bfb58c6fbc2647\sdl-tutorial-7f078386f55805c6fefcfb1bb8bfb58c6fbc2647\game\game\background.cpp
+	"Background.h"
+
+1710998360 e:\sdl-tutorial-7f078386f55805c6fefcfb1bb8bfb58c6fbc2647\sdl-tutorial-7f078386f55805c6fefcfb1bb8bfb58c6fbc2647\game\game\background.h
+	"Object.h"
+
+1710998360 e:\sdl-tutorial-7f078386f55805c6fefcfb1bb8bfb58c6fbc2647\sdl-tutorial-7f078386f55805c6fefcfb1bb8bfb58c6fbc2647\game\game\object.h
+	"TextureManager.h"
+
+1710998360 e:\sdl-tutorial-7f078386f55805c6fefcfb1bb8bfb58c6fbc2647\sdl-tutorial-7f078386f55805c6fefcfb1bb8bfb58c6fbc2647\game\game\texturemanager.h
+	<SDL.h>
+	<SDL_image.h>
+
+1710998360 source:e:\sdl-tutorial-7f078386f55805c6fefcfb1bb8bfb58c6fbc2647\sdl-tutorial-7f078386f55805c6fefcfb1bb8bfb58c6fbc2647\game\game\gameloop.cpp
+	"GameLoop.h"
+
+1710998360 e:\sdl-tutorial-7f078386f55805c6fefcfb1bb8bfb58c6fbc2647\sdl-tutorial-7f078386f55805c6fefcfb1bb8bfb58c6fbc2647\game\game\gameloop.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"Player.h"
+	"Object.h"
+	"Background.h"
+
+1710998360 e:\sdl-tutorial-7f078386f55805c6fefcfb1bb8bfb58c6fbc2647\sdl-tutorial-7f078386f55805c6fefcfb1bb8bfb58c6fbc2647\game\game\player.h
+	"Object.h"
+
+1710998361 source:e:\sdl-tutorial-7f078386f55805c6fefcfb1bb8bfb58c6fbc2647\sdl-tutorial-7f078386f55805c6fefcfb1bb8bfb58c6fbc2647\game\game\main.cpp
+	"GameLoop.h"
+
+1710998360 source:e:\sdl-tutorial-7f078386f55805c6fefcfb1bb8bfb58c6fbc2647\sdl-tutorial-7f078386f55805c6fefcfb1bb8bfb58c6fbc2647\game\game\object.cpp
+	"Object.h"
+
+1710998360 source:e:\sdl-tutorial-7f078386f55805c6fefcfb1bb8bfb58c6fbc2647\sdl-tutorial-7f078386f55805c6fefcfb1bb8bfb58c6fbc2647\game\game\player.cpp
+	"Player.h"
+
+1710998360 source:e:\sdl-tutorial-7f078386f55805c6fefcfb1bb8bfb58c6fbc2647\sdl-tutorial-7f078386f55805c6fefcfb1bb8bfb58c6fbc2647\game\game\texturemanager.cpp
+	"TextureManager.h"
+
